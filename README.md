@@ -2,5 +2,5 @@
 
 ## Kullanım : 
 
-!sor sormak istediğiniz soru
+!sor sormak istediğiniz soru  
 !çiz çizmek istediğiniz resim
