@@ -1,6 +1,6 @@
-## ChatGPT-API-Discord-Bot
+# ChatGPT-API-Discord-Bot
 
-# Kullanım : 
+## Kullanım : 
 
 !sor sormak istediğiniz soru
 !çiz çizmek istediğiniz resim
